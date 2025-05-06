@@ -1,3 +1,7 @@
+# This code demonstrates a simple forward propagation in a neural network.
+# It calculates the output of a neural network with one hidden layer.
+# The network has two input nodes, two hidden nodes, and one output node.
+# The weights are defined for each node, and the output is calculated by multiplying the inputs with the weights.
 import numpy as np
 
 input_data = np.array([2, 3])
