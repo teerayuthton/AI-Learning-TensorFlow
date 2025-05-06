@@ -29,8 +29,6 @@ b2x2 = constant([1, 2, 3, 4], shape=[2, 2])
 #[[1 2]
 # [3 4]]
 
-import tensorflow as tf
-
 # Define variables
 af32 = tf.Variable([1, 2, 3, 4, 5, 6], dtype=tf.float32)    #af32:  [1. 2. 3. 4. 5. 6.]
 ai16 = tf.Variable([1, 2, 3, 4, 5, 6], dtype=tf.int16)      #ai16:  [1 2 3 4 5 6]
