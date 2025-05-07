@@ -1,4 +1,4 @@
-# Forward propagation code
+# Forward propagation
 - This code demonstrates a simple forward propagation in a neural network.
 - It calculates the output of a neural network with one hidden layer.
 
